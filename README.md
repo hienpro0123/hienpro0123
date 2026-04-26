@@ -9,6 +9,8 @@ Third-year Data Science student seeking a Data Engineer Intern opportunity. Hand
 * 🌍  I'm based in Vietnam
 * 🖥️  See my portfolio at [My Portfolio](http://hienpro0123.github.io/Data-Portfolio/)
 * ✉️  You can contact me at [trinhquanghien.iuh@gmail.com](mailto:trinhquanghien.iuh@gmail.com)
+  
+### Skills
 
 <p align="left" style="display:flex; flex-wrap:wrap; gap:8px;">
 <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" /></a>
