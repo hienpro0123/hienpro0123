@@ -32,6 +32,7 @@ Third-year Data Science student seeking a Data Engineer Intern opportunity. Hand
 <a href="https://github.com/hienpro0123/banking-e2e-data-engineering" align="left">
 <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=hienpro0123&repo=banking-e2e-data-engineering&title_color=000000&text_color=ffffff&icon_color=0f172a&bg_color=1c1917&hide_border=true&locale=en" />
 </a>
+  
 <a href="https://github.com/hienpro0123/predict_customer_churn" align="right">
 <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=hienpro0123&repo=predict_customer_churn&title_color=000000&text_color=ffffff&icon_color=0f172a&bg_color=1c1917&hide_border=true&locale=en" />
 </a>
