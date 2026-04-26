@@ -25,17 +25,3 @@ Third-year Data Science student seeking a Data Engineer Intern opportunity. Hand
 <a href="http://www.github.com/hienpro0123"><img src="https://github-readme-stats.vercel.app/api?username=hienpro0123&show_icons=true&hide=&count_private=true&title_color=000000&text_color=ffffff&icon_color=0f172a&bg_color=1c1917&hide_border=true&show_icons=true" alt="hienpro0123's GitHub stats" /></a>
 
 <a href="http://www.github.com/hienpro0123"><img src="https://github-readme-streak-stats.herokuapp.com/?user=hienpro0123&stroke=ffffff&background=1c1917&ring=000000&fire=000000&currStreakNum=ffffff&currStreakLabel=000000&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center">
-<a href="https://github.com/hienpro0123/banking-e2e-data-engineering" align="left">
-<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=hienpro0123&repo=banking-e2e-data-engineering&title_color=000000&text_color=ffffff&icon_color=0f172a&bg_color=1c1917&hide_border=true&locale=en" />
-</a>
-  
-<a href="https://github.com/hienpro0123/predict_customer_churn" align="right">
-<img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=hienpro0123&repo=predict_customer_churn&title_color=000000&text_color=ffffff&icon_color=0f172a&bg_color=1c1917&hide_border=true&locale=en" />
-</a>
-</div>
-
-<br /><br /><br /><br /><br /><br /><br />
