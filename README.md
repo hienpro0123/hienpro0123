@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Trinh Quang Hien
 =========================================================================================================================================
 
-Data Engineer
+Data & AI Engineer
 -------------
 
 Third-year Data Science student seeking a Data Engineer Intern opportunity. Hands-on experience in building data pipelines and working with large-scale datasets through academic and personal projects. Strong interest in data engineering and scalable data systems, with a desire to apply skills in a real-world environment
@@ -22,6 +22,8 @@ Third-year Data Science student seeking a Data Engineer Intern opportunity. Hand
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/hienpro0123"><img src="https://github-readme-stats.vercel.app/api?username=hienpro0123&show_icons=true&hide=&count_private=true&title_color=000000&text_color=ffffff&icon_color=0f172a&bg_color=1c1917&hide_border=true&show_icons=true" alt="hienpro0123's GitHub stats" /></a>
+<a href="https://github.com/hienpro0123">
+  <img src="https://github-readme-stats.vercel.app/api?username=hienpro0123&show_icons=true&theme=dark&hide_border=true" />
+</a>
 
 <a href="http://www.github.com/hienpro0123"><img src="https://github-readme-streak-stats.herokuapp.com/?user=hienpro0123&stroke=ffffff&background=1c1917&ring=000000&fire=000000&currStreakNum=ffffff&currStreakLabel=000000&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
